@@ -25,11 +25,10 @@ module.exports = {
         map: [
           ['components', './src/components'],
           ['contexts', './src/contexts'],
-          ['services', './src/services'],
+          ['styles', './src/styles'],
         ],
         extensions: ['.js', '.jsx', '.json'],
       },
     },
   },
 };
-
